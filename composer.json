@@ -3,6 +3,7 @@
     "description": "All common functions in PHP Web Development",
     "type": "library",
     "license": "MIT",
+    "version": "1.0.0",
     "autoload": {
         "psr-4": {
             "Jehankandy\\PhpFull\\": "src/"
