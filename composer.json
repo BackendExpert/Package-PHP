@@ -22,6 +22,6 @@
         }
     ],
     "require": {
-        "jehankandy/php-full": "1.0.0"
+        "backendexpert/php-full": "1.0.0"
     }
 }
